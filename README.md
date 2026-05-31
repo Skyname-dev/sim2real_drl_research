@@ -11,7 +11,11 @@ Sim-to-Real Gap: как научить робота действовать в р
 | Файл | Описание |
 |:---|:---|
 | `docs/literature_review.md` | Обзор литературы по DRL и Sim-to-Real Gap |
+| `docs/experimental_setup.md` | Описание экспериментальной установки и методики |
+| `docs/results_analysis.md` | Детальный анализ полученных результатов |
+| `references/papers.bib` | Библиографические ссылки в формате BibTeX |
 | `references/links.md` | Ссылки на ключевые статьи и проекты |
+| `poster/poster_sirius_2026.pdf` | Постер доклада (PDF) |
 
 ## Ключевые результаты
 
